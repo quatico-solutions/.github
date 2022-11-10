@@ -1,6 +1,6 @@
 ## We@Quatico 
 
-![alt text](pano.jpg "Quatico Panorama")
+![alt text](./profile/img/pano.jpg?raw=true "Quatico Panorama")
 
 
 “We develop digital products and services for companies on the web; fast, inexpensive and functionally so simple that they are useful for as many people as possible. We are the reliable partner for the digitization of innovative business ideas and complex analogue business processes.”
