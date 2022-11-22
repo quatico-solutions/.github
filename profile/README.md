@@ -15,4 +15,4 @@ We value humanity, open feedback culture, trust, respect and appreciation. We fo
 We are an active member of [Hackergarten.net](https://www.hackergarten.net/). Come and code with us in our monthly [Meetup "Hackergarten Zurich"](https://www.meetup.com/hackergarten-zurich). We sponsor and contribute regularly to Open-Source events like [SoCraTes CH](https://socrates-ch.org/) and [Java User Group](https://www.jug.ch/).
 
 ### Join us
-Interessted in joining? We are [looking for talented people](https://www.quatico.com) and love hiring from diverse backgrounds.
+Interested in joining? We are [looking for talented people](https://www.quatico.com) and love hiring from diverse backgrounds.
